@@ -22,7 +22,7 @@ export default function Hero() {
           </motion.div>
         </div>
 
-        <motion.div initial={{ opacity: 0, x: 18 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: .55, delay: .2 }} className="w-full max-w-[260px] justify-self-center lg:justify-self-end">
+        <motion.div initial={{ opacity: 0, x: 18 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: .55, delay: .2 }} className="w-full max-w-[260px] justify-self-center">
           <div className="aspect-[4/5] overflow-hidden border border-white/20 bg-[#151a20] p-2">
             <img src="/profile.jpg" alt="Rohit Kumar Meena" className="h-full w-full object-cover grayscale" />
           </div>
