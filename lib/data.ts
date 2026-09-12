@@ -235,8 +235,8 @@ export const achievements = [
   },
   {
     year: "2026",
-    title: "3 Forage job simulations completed",
-    desc: "Deloitte Technology, Deloitte Data Analytics, and Wells Fargo Software Engineering.",
+    title: "4 Forage job simulations completed",
+    desc: "Deloitte Technology, Deloitte Data Analytics, Wells Fargo Software Engineering and Software Engineering Job Simulation JPMorganChase .",
   },
 ];
 
