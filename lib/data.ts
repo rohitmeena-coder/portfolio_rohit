@@ -35,7 +35,7 @@ export const education = [
 
 export const counters = [
   { label: "Projects Shipped", value: 3 },
-  { label: "Job Simulations", value: 3 },
+  { label: "Job Simulations", value: 4 },
   { label: "DSA Problems Solved", value: 150 },
   { label: "Technologies Used", value: 20 },
 ];
